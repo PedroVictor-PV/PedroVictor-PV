@@ -27,11 +27,11 @@ __Sobre mim__
 
 # Meus Stats
 
-
-
-<img height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictor-PV&layout=compact&langs_count=7&theme=dracula">
-<img height="160em" src= "https://github-readme-stats.vercel.app/api?username=PedroVictor-PV&show_icons=true&theme=dracula">
-
+<div>
+<a href= "https://github.com/PedroVictor-PV">
+<img loading= "lazy" height="160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVictor-PV&layout=compact&langs_count=7&theme=dracula">
+<img loading= "lazy" height="160em" src= "https://github-readme-stats.vercel.app/api?username=PedroVictor-PV&show_icons=true&theme=dracula">
+</div>
 
 
 
