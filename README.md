@@ -5,7 +5,7 @@ __Sobre mim__
 - ❗ Me chamo Pedro Victor Cavalcante.
 - 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
     - FACULDADE CDL
----
+-------
 
 #### Cursos
 
@@ -13,18 +13,31 @@ __Sobre mim__
 |        DIO.ME        |
 |----------------------|
 |Lógica de programação |
-|                      |
+
 
 |    Curso com Alex Girão      |
 |------------------------------|
 |Engenheiro de software - java |
 
----
+---------
 #### Linguagens de marcação
----
+---------
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width=100px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width=70px>
+
+---------
+#### Linguagens de Programação
+---------
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px>
+
+------------
+
+
+
+
+
+
 
 
 
