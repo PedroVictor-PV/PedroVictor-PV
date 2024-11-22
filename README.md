@@ -1,4 +1,4 @@
-# Seja bem-vindo ao meu Github
+# Seja Bem-vindo ao meu Github
 
 __Sobre mim__
 
@@ -7,7 +7,7 @@ __Sobre mim__
     - FACULDADE CDL
 
 #
-## Outros Cursos e Estudos
+## Outros cursos
 
 
 |        DIO.ME        |
@@ -20,12 +20,12 @@ __Sobre mim__
 |Engenheiro de software - java |
 
 #
-## Minhas linguagens
+## Minhas Tecnologias
 
 ![My Skills](https://skillicons.dev/icons?i=js,md,)
 #
 
-# Meus Stats
+# Meus stats
 
 <div>
 <a href= "https://github.com/PedroVictor-PV">
