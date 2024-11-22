@@ -1,16 +1,33 @@
-## Hi there 👋
+# Seja bem-vindo ao meu Github
 
-<!--
-**PedroVictor-PV/PedroVictor-PV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__Sobre mim__
 
-Here are some ideas to get you started:
+- ❗ Me chamo Pedro Victor Cavalcante.
+- 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
+    - FACULDADE CDL
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Cursos
+
+
+|        DIO.ME        |
+|----------------------|
+|Lógica de programação |
+|                      |
+
+|    Curso com Alex Girão      |
+|------------------------------|
+|Engenheiro de software - java |
+
+---
+#### Linguagens de marcação
+---
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width=100px>
+
+
+
+
+
+
