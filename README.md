@@ -5,9 +5,9 @@ __Sobre mim__
 - ❗ Me chamo Pedro Victor Cavalcante.
 - 🎓 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
     - FACULDADE CDL
--------
 
-#### Cursos
+------
+## Outros Cursos e Estudos
 
 
 |        DIO.ME        |
@@ -19,19 +19,14 @@ __Sobre mim__
 |------------------------------|
 |Engenheiro de software - java |
 
----------
-#### Linguagens de marcação
----------
+
+## Skills 
+
+![My Skills](https://skillicons.dev/icons?i=js,md)
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width=70px>
 
----------
-#### Linguagens de Programação
----------
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px>
 
-------------
 
 
 
