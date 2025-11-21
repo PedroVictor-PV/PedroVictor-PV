@@ -22,7 +22,7 @@ __Sobre mim__
 #
 ## Minhas Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=java,js,md,html)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,c,py,html,css,)
 #
 
 # Meus stats
